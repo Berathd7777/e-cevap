@@ -8,8 +8,8 @@
     {
         "name": "Coğrafya",
         "units": [
-            { "title": "1. Ünite", "url": "https://ogmmateryal.eba.gov.tr/panel/panel/EKitapUniteOnizle.aspx?Id=6433" }
-            { "title": "2. Ünite", "url": "https://ogmmateryal.eba.gov.tr/panel/panel/EKitapUniteOnizle.aspx?Id=6434" }
+            { "title": "1. Ünite", "url": "https://ogmmateryal.eba.gov.tr/panel/panel/EKitapUniteOnizle.aspx?Id=6433" },
+            { "title": "2. Ünite", "url": "https://ogmmateryal.eba.gov.tr/panel/panel/EKitapUniteOnizle.aspx?Id=6434" },
             { "title": "3. Ünite", "url": "https://ogmmateryal.eba.gov.tr/panel/panel/EKitapUniteOnizle.aspx?Id=6435" }
         ]
     },
