@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Biyoloji",
+        "units": [
+            { "title": "1. Tema", "url": "https://ogmmateryal.eba.gov.tr/panel/panel/EKitapUniteOnizle.aspx?Id=6455" }
+        ]
+    },
+    {
+        "name": "Coğrafya",
+        "units": [
+            { "title": "1. Ünite", "url": "https://ogmmateryal.eba.gov.tr/panel/panel/EKitapUniteOnizle.aspx?Id=6433" }
+        ]
+    },
+    {
+        "name": "Felsefe",
+        "units": [
+            { "title": "1. Ünite", "url": "https://ogmmateryal.eba.gov.tr/panel/panel/EKitapUniteOnizle.aspx?Id=6442" }
+        ]
+    },
+    {
+        "name": "Fizik",
+        "units": [
+            { "title": "1. Ünite", "url": "https://ogmmateryal.eba.gov.tr/panel/panel/EKitapUniteOnizle.aspx?Id=6451" }
+        ]
+    },
+    {
+        "name": "Kimya",
+        "units": [
+            { "title": "1. Tema", "url": "https://ogmmateryal.eba.gov.tr/panel/panel/EKitapUniteOnizle.aspx?Id=6506" }
+        ]
+    },
+    {
+        "name": "Matematik",
+        "units": [
+            { "title": "1. Tema", "url": "https://ogmmateryal.eba.gov.tr/panel/panel/EKitapUniteOnizle.aspx?Id=6514" }
+        ]
+    },
+    {
+        "name": "Tarih",
+        "units": [
+            { "title": "1. Tema", "url": "https://ogmmateryal.eba.gov.tr/panel/panel/EKitapUniteOnizle.aspx?Id=6672" }
+        ]
+    },
+    {
+        "name": "Türk Dili ve Edebiyatı",
+        "units": [
+            { "title": "1. Tema", "url": "https://ogmmateryal.eba.gov.tr/panel/panel/EKitapUniteOnizle.aspx?Id=6403" },
+            { "title": "2. Tema", "url": "https://ogmmateryal.eba.gov.tr/panel/panel/EKitapUniteOnizle.aspx?Id=6407" },
+            { "title": "3. Tema", "url": "https://ogmmateryal.eba.gov.tr/panel/panel/EKitapUniteOnizle.aspx?Id=6408" },
+            { "title": "4. Tema", "url": "https://ogmmateryal.eba.gov.tr/panel/panel/EKitapUniteOnizle.aspx?Id=6409" }
+        ]
+    },
+    {
+        "name": " ",
+        "units": []
+    }
+]
